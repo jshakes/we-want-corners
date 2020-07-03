@@ -1,7 +1,7 @@
 {
 	"manifest_version": 2,
 	"name": "We want corners!",
-	"description": "",
+	"description": "Banish unsightly rounded corners from your browsing experience",
 	"version": "1.0",
 	"author": "https://github.com/jshakes/",
 	"content_scripts": [
